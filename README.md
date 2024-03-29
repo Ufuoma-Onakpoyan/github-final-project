@@ -7,3 +7,4 @@ Input:
    r, annual rate of interest
 Output
    simple interest = p*t*r
+Free README feedback to make your open-source projects grow. See the README maturity model to help you keep going.
